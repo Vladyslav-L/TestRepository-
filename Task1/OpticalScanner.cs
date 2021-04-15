@@ -9,6 +9,7 @@ namespace Transformers
             public override void Scan()
             {
                 Console.WriteLine("Scanser is acvivated");
+                Console.WriteLine("Henlo world.");
             }
         }
     }
