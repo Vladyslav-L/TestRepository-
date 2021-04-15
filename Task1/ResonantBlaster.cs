@@ -11,7 +11,6 @@ namespace Transformers
             {
                 Console.WriteLine("Im Reload");
                 Ammo = 100;
-
             }
 
             public override int Fire()
