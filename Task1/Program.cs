@@ -7,6 +7,7 @@ namespace Transformers
         public static void Main(string[] args)
         {
             CreateTransformers();
+            Console.WriteLine("( . Y . )");
         }
 
         public static void CreateTransformers()
