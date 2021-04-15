@@ -19,7 +19,7 @@ namespace Task2
             }
         }
 
-        public static void Menu()
+        private static void Menu()
         {
             Wallet wallet = new Wallet();
             bool isExit = true;

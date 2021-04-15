@@ -15,7 +15,7 @@ public class Registration
 
     private static void ChooseAction()
     {
-        Console.WriteLine("Your WalletApp welcomes you!Please choose the action:\n(R) Registration, (L) Login, (LG) Logout.");
+        Console.WriteLine("Your WalletApp doesn't welcome you!Please don't choose the action:\n(R) Registration, (L) Login, (LG) Logout.");
         var userOperation = Console.ReadLine();
 
         switch (userOperation?.ToLower())
