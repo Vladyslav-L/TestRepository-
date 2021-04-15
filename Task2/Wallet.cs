@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace Task2
 {
+    //change from Den
     public class Wallet
     {
         public List<Bill> Bills = new List<Bill>();
