@@ -6,7 +6,7 @@ namespace Task2
     {
         public static void Main(string[] args)
         {
-            Registration registration = new Registration();
+            var registration = new Registration();
 
             while (true)
             {
